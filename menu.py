@@ -1,0 +1,2 @@
+def MENU():
+    return None
